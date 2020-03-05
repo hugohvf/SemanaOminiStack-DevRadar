@@ -42,7 +42,7 @@ server.listen(3333);
 
 // requisições HTTP
 
-//GET, POST, PUS, DELETE
+//GET, POST, PUT, DELETE
 
 //Requisição Frontend -> Backend -> RESPOSTA Front-end
 // Como devolver uma respostas sem uma requisição
